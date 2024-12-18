@@ -1,5 +1,8 @@
+
+
 **Weather App**
- A program that fetches weather data for a given city using a public API (like OpenWeatherMap).
+               
+         A program that fetches weather data for a given city using a public API (like OpenWeatherMap).
 
 **Features:**
 
